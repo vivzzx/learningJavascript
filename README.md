@@ -7,3 +7,5 @@
 3. Data Types - exercise from HackerRank
 
 4. Conditional Statements: If-Else - exercise from HackerRank
+
+5. Arrays - exercise from HackerRank
